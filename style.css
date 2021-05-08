@@ -1,0 +1,56 @@
+body
+{
+	background: linear-gradient(orange, purple);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: purple;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin-top: 140px;
+	}
+
+h1
+{
+	color: white;
+}
+
+#Player1H3 , #Player2H3 , #label1 , #label2
+{
+	color: white;
+}
+
+#player1Name , #player2Name
+{
+	display: inline-block;
+	margin-left: 20px;
+	color: white;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#num1 , #num2
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#Body2
+{
+	background-color: white;
+}
